@@ -5,7 +5,7 @@
 #ifndef HAVE_HWSERIAL3
 #endif 
 const char* ssid = "Hogwarts Great Hall Wifi";
-const char* password = "PopescuS1234";
+const char* password = "************";
 const char* host = "192.168.0.22";
 int s135 = 0;
 int s7 = 0;
